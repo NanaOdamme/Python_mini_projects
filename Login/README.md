@@ -1,4 +1,4 @@
-# Modern Login Form with Tkinter
+# Login Form with Tkinter
 
 This simple Python application creates a modern login form using the Tkinter library. The login form features a user-friendly design with a sea blue background, larger text entry boxes, and a deep blue login button that changes color on hover. It also displays informative messages for successful logins and incorrect credentials.
 
